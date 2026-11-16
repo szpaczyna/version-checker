@@ -1,6 +1,6 @@
 module github.com/jetstack/version-checker
 
-go 1.20
+go 1.26
 
 // Do not remove this comment:
 // please place any replace statements here at the top for visibility and add a
@@ -23,7 +23,7 @@ require (
 	k8s.io/cli-runtime v0.28.3
 	k8s.io/client-go v0.28.3
 	k8s.io/component-base v0.28.3
-	k8s.io/utils v0.0.0-20230726121419-3b25d923346b
+	k8s.io/utils v0.0.0-20261023123148-ca04ba58ecab
 )
 
 require (
